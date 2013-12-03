@@ -1,0 +1,13 @@
+Text Deletion Commands
+
+x Delete character
+
+dw Delete word from cursor on
+
+db Delete word backward
+
+dd Delete line
+
+d$ Delete to end of line
+
+d^ (d caret, not CTRL d) Delete to beginning of line
