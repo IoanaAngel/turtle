@@ -1,0 +1,31 @@
+h Moves the cursor one character to the left
+
+l Moves the cursor one character to the right
+
+k Moves the cursor up one line
+
+j Moves the cursor down one line
+
+nG or :n Cursor goes to the specified (n) line
+
+(ex. 10G goes to line 10)
+
+^F (CTRl F) Forward screenful
+
+^B Backward screenful
+
+^f One page forward
+
+^b One page backward
+
+^U Up half screenful
+
+^D Down half screenful
+
+$ Move cursor to the end of current line
+
+0 (zero) Move cursor to the beginning of current line
+
+w Forward one word
+
+b Backward one word
