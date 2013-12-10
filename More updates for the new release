@@ -1,0 +1,2 @@
+Next, John e-mails Jessica to say he’s pushed some changes to the featureA branch and ask her to verify them. She runs a git fetch to pull down those changes:
+
